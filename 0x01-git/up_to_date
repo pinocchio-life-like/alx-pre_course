@@ -1,0 +1,11 @@
+The commands used 
+ git clone <repo> 
+ git add . 
+ git commit -m 
+"commit description" 
+ git push origin main 
+ echo single qouted write whatev
+er inside > <file name> 
+ git config --blobal user.email "email" 
+ git config
+ --global user.name "name" 
