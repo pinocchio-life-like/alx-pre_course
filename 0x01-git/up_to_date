@@ -9,3 +9,4 @@ er inside > <file name>
  git config --blobal user.email "email" 
  git config
  --global user.name "name" 
+ git pull origin main
